@@ -1,2 +1,3 @@
-# logs-hors-group
-Logs of Hors group meetups
+# HORS group
+
+
